@@ -91,6 +91,21 @@ Code to footer
 
          
       </body>
+7434b429f4f9d9e2c2d91c95cfd73eba7d08c61d
+git add assets/images/logo.png
+git commit -m "Add Mala Holding logo"
+git push origin main
+<header>
+  <img src="assets/images/logo.png" alt="Mala Holding Logo" width="200">
+</header>
+.logo {
+  background-image: url("assets/images/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 80px;
+}
+
 
 
 
