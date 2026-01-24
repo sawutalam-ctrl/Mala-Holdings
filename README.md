@@ -97,7 +97,8 @@ git commit -m "Add Mala Holding logo"
 git push origin main
 <header>
   <img src="assets/images/logo.png" alt="Mala Holding Logo" width="200">
-</header>
+  
+</header> 
 .logo {
   background-image: url("assets/images/logo.png");
   background-size: contain;
