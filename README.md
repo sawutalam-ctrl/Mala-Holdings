@@ -81,10 +81,29 @@ Code to footer
          <Blockqoute>
          "Excelent service snd support. We trust them with our IT needs"
          </Blockqoute>
+         </section>
+         <--Contact Section-->
+         <section id="contact">
+         <h2>Contact Us</h2>
+         <Form Name="contact" method="Post" data-Netlify="true">
+                <input type="text nameplaceholder="Your Name" requare>
+                <input type="email nameplaceholder="Your Nme" require>
+                <input type="massege nameplaceholder="Your Name" require>
+                <input type="msubmit"> Sand massege <button/>
+                </form>
+                </Sections>
+             <!-- footer -->   
+                <footer>
+                <p>&copy; 2026 Mala Holding. All right reseved.</p>
  
+        </FOOTER>
+        
+     </body>   
 
+</html>
+---
 
-
+---
 
 
 
