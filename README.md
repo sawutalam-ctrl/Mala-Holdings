@@ -47,6 +47,49 @@ Code to footer
   <1-- Hero Section -->
     <secction id ="Home>
       <h1> Welcome to Mala Holding </h1>
+      <p>Profetional IT Services to your Businesses thrive in the digital world </p>
+      <botton>Get started </botton>
+      <section>
+
+      <!--services section-->
+      <section id="services">
+      <h2="our services</h2>
+      <p> We provide a range of IT Solution tailarate toyour needs</p>
+      <ul>
+      <li> Web Development</li>
+      <LI>IT Consalting</li>
+      <li>Cloud solution</li>
+      <li>Cyber security</li>
+      </ul>
+      </Section>
+       <!--Portfolio Section-->
+       <Section id="Portfolio">
+       <h2>portfolio</h2>
+       <p> here are sokme our recent project<p/>
+       <div>
+       <img src="project1.JPG" ALT="project1"loading="lazy">
+       <img src="project2.JPG"ALT="project2="loading="lazy>
+       <img src="project3.JPG"ALT="PROJECT3="loading="lazy>
+       </div>
+       </Section>   
+       <!--testimonials Section-->
+       <Section id=" testimonials"> 
+       <h2> What our lients say</h2>
+         <Blockqoute>
+         "Mala Holding transformed our online service. Highly Professional and realable" 
+         </Blockqoute>
+         <Blockqoute>
+         "Excelent service snd support. We trust them with our IT needs"
+         </Blockqoute>
+ 
+
+
+
+
+
+
+
+         
       </body>
 
 
