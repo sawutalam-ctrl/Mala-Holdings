@@ -14,6 +14,32 @@
              ☰
     </div>
     </nav>
+VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
+VITE_CLOUDINARY_API_KEY=your_api_key
+VITE_CLOUDINARY_API_SECRET=your_api_secret
+
+npm install cloudinary
+
+import { v2 as cloudinary } from 'cloudinary';
+
+cloudinary.config({
+  cloud_name: import.meta.env.VITE_CLOUDINARY_CLOUD_NAME,
+  api_key: import.meta.env.VITE_CLOUDINARY_API_KEY,
+  api_secret: import.meta.env.VITE_CLOUDINARY_API_SECRET
+});
+
+cloudinary.uploader.upload("src/assets/logo.png", {
+  folder: "mala-holding"
+}).then(result => console.log(result.secure_url));
+
+function Hero() {
+  return (
+    <img 
+      src="https://res.cloudinary.com/your_cloud_name/image/upload/v123456789/mala-holding/logo.png" 
+      alt="Mala Holding Logo" 
+    />
+  );
+}
 </header>
 
 HTML STRUCTURE form
