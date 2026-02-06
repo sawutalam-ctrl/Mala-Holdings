@@ -14,6 +14,8 @@
              ☰
     </div>
     </nav>
+https://res.cloudinary.com/<cloud_name>/image/upload/<transformations>/<folder>/<filename>
+https://res.cloudinary.com/your_cloud_name/image/upload/f_auto,q_auto/mala-holding/logo.png
 VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
 VITE_CLOUDINARY_API_KEY=your_api_key
 VITE_CLOUDINARY_API_SECRET=your_api_secret
@@ -41,6 +43,20 @@ function Hero() {
   );
 }
 </header>
+
+.../image/upload/w_400,h_300,f_auto,q_auto/mala-holding/portfolio1.jpg
+.../image/upload/w_300,h_300,c_fill,f_auto,q_auto/mala-holding/banner.jpg
+<img 
+  src="https://res.cloudinary.com/your_cloud_name/image/upload/w_600,f_auto,q_auto/mala-holding/portfolio1.jpg"
+  srcSet="
+    https://res.cloudinary.com/your_cloud_name/image/upload/w_300,f_auto,q_auto/mala-holding/portfolio1.jpg 300w,
+    https://res.cloudinary.com/your_cloud_name/image/upload/w_600,f_auto,q_auto/mala-holding/portfolio1.jpg 600w,
+    https://res.cloudinary.com/your_cloud_name/image/upload/w_1200,f_auto,q_auto/mala-holding/portfolio1.jpg 1200w
+  "
+  sizes="(max-width: 600px) 300px, (max-width: 1200px) 600px, 1200px"
+  alt="Portfolio Screenshot"
+/>
+
 
 HTML STRUCTURE form
 
