@@ -846,7 +846,24 @@ feature/*  --->  dev (staging)  --->  main (production)
 ![Contributors](https://img.shields.io/github/contributors/sawutalam-ctrl/your-repo)
 ![Issues](https://img.shields.io/github/issues/sawutalam-ctrl/your-repo)
 
+## 🚀 Get Involved
 
+For Designers 🎨
+- Share your tools
+- Give feedback
+- Stay updated
+
+For Code & Software Providers 💻
+- Add your solution
+- Report issues
+- Collaborate
+
+Quick Links
+- Contributing Guide
+- GitHub Discussions
+- Report a Bug
+- Request a Feature
+- Star this repo ⭐
 
 
     
