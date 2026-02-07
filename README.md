@@ -842,6 +842,9 @@ feature/*  --->  dev (staging)  --->  main (production)
 3. **Report issues** or request features using [our issue tracker](https://github.com/<user>/<repo>/issues).
 4. Need help? Reach out via [GitHub Discussions](https://github.com/<user>/<repo>/discussions).
 
+![GitHub Stars](https://img.shields.io/github/stars/sawutalam-ctrl/your-repo?style=social)
+![Contributors](https://img.shields.io/github/contributors/sawutalam-ctrl/your-repo)
+![Issues](https://img.shields.io/github/issues/sawutalam-ctrl/your-repo)
 
 
 
