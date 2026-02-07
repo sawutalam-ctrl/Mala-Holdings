@@ -836,6 +836,11 @@ git push origin main
 feature/*  --->  dev (staging)  --->  main (production)
      |             |                   |
  Deploy Preview   Staging Site        Live Site
+## Get Started 🚀
+1. **Star this repo** to show your support ⭐.
+2. **Fork this project** and make it your own! [Contribute](CONTRIBUTING.md) your amazing ideas and improvements.
+3. **Report issues** or request features using [our issue tracker](https://github.com/<user>/<repo>/issues).
+4. Need help? Reach out via [GitHub Discussions](https://github.com/<user>/<repo>/discussions).
 
 
 
