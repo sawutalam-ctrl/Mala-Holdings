@@ -834,36 +834,7 @@ git push origin main
 </form>
 
 feature/*  --->  dev (staging)  --->  main (production)
-     |             |                   |
- Deploy Preview   Staging Site        Live Site
-## Get Started 🚀
-1. **Star this repo** to show your support ⭐.
-2. **Fork this project** and make it your own! [Contribute](CONTRIBUTING.md) your amazing ideas and improvements.
-3. **Report issues** or request features using [our issue tracker](https://github.com/<user>/<repo>/issues).
-4. Need help? Reach out via [GitHub Discussions](https://github.com/<user>/<repo>/discussions).
-
-![GitHub Stars](https://img.shields.io/github/stars/sawutalam-ctrl/your-repo?style=social)
-![Contributors](https://img.shields.io/github/contributors/sawutalam-ctrl/your-repo)
-![Issues](https://img.shields.io/github/issues/sawutalam-ctrl/your-repo)
-
-## 🚀 Get Involved
-
-For Designers 🎨
-- Share your tools
-- Give feedback
-- Stay updated
-
-For Code & Software Providers 💻
-- Add your solution
-- Report issues
-- Collaborate
-
-Quick Links
-- Contributing Guide
-- GitHub Discussions
-- Report a Bug
-- Request a Feature
-- Star this repo ⭐
+     
 
 
 
